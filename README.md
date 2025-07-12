@@ -49,13 +49,6 @@
 
 ---
 
-<div align="center" style="margin-top: 30px;">
-  <h3><b>Já passaram por aqui ☕</b></h3>
-  <img src="https://profile-counter.glitch.me/JDPetrovich/count.svg" alt="Contador de visitas" style="margin-top: 10px;"/>
-</div>
-
----
-
 <div align="center" style="margin-top: 40px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6f4e37&height=100&section=footer" alt="Footer Café" />
 </div>
